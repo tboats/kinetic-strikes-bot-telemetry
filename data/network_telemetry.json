@@ -1,0 +1,413 @@
+{
+  "ioda": {},
+  "ripe": {
+    "bgp_update_activity": {
+      "max_samples": 50,
+      "query_endtime": "2026-10-12T18:00:00",
+      "query_starttime": "2026-10-01T00:00:00",
+      "related_prefixes": [],
+      "resource": "13238",
+      "resource_type": "asn",
+      "sampling_period": 21600.0,
+      "sampling_period_human": "6 hours",
+      "updates": [
+        {
+          "announcements": 853,
+          "withdrawals": null,
+          "starttime": "2026-10-01T00:00:00"
+        },
+        {
+          "announcements": 1099,
+          "withdrawals": null,
+          "starttime": "2026-10-01T06:00:00"
+        },
+        {
+          "announcements": 3267,
+          "withdrawals": null,
+          "starttime": "2026-10-01T12:00:00"
+        },
+        {
+          "announcements": 713,
+          "withdrawals": null,
+          "starttime": "2026-10-01T18:00:00"
+        },
+        {
+          "announcements": 439,
+          "withdrawals": null,
+          "starttime": "2026-10-02T00:00:00"
+        },
+        {
+          "announcements": 648,
+          "withdrawals": null,
+          "starttime": "2026-10-02T06:00:00"
+        },
+        {
+          "announcements": 2238,
+          "withdrawals": null,
+          "starttime": "2026-10-02T12:00:00"
+        },
+        {
+          "announcements": 510,
+          "withdrawals": null,
+          "starttime": "2026-10-02T18:00:00"
+        },
+        {
+          "announcements": 391,
+          "withdrawals": null,
+          "starttime": "2026-10-03T00:00:00"
+        },
+        {
+          "announcements": 481,
+          "withdrawals": null,
+          "starttime": "2026-10-03T06:00:00"
+        },
+        {
+          "announcements": 374,
+          "withdrawals": null,
+          "starttime": "2026-10-03T12:00:00"
+        },
+        {
+          "announcements": 409,
+          "withdrawals": null,
+          "starttime": "2026-10-03T18:00:00"
+        },
+        {
+          "announcements": 267,
+          "withdrawals": null,
+          "starttime": "2026-10-04T00:00:00"
+        },
+        {
+          "announcements": 411,
+          "withdrawals": null,
+          "starttime": "2026-10-04T06:00:00"
+        },
+        {
+          "announcements": 348,
+          "withdrawals": null,
+          "starttime": "2026-10-04T12:00:00"
+        },
+        {
+          "announcements": 619,
+          "withdrawals": null,
+          "starttime": "2026-10-04T18:00:00"
+        },
+        {
+          "announcements": 436,
+          "withdrawals": null,
+          "starttime": "2026-10-05T00:00:00"
+        },
+        {
+          "announcements": 1860,
+          "withdrawals": null,
+          "starttime": "2026-10-05T06:00:00"
+        },
+        {
+          "announcements": 2113,
+          "withdrawals": null,
+          "starttime": "2026-10-05T12:00:00"
+        },
+        {
+          "announcements": 547,
+          "withdrawals": null,
+          "starttime": "2026-10-05T18:00:00"
+        },
+        {
+          "announcements": 450,
+          "withdrawals": null,
+          "starttime": "2026-10-06T00:00:00"
+        },
+        {
+          "announcements": 723,
+          "withdrawals": null,
+          "starttime": "2026-10-06T06:00:00"
+        },
+        {
+          "announcements": 4981,
+          "withdrawals": null,
+          "starttime": "2026-10-06T12:00:00"
+        },
+        {
+          "announcements": 1242,
+          "withdrawals": null,
+          "starttime": "2026-10-06T18:00:00"
+        },
+        {
+          "announcements": 383,
+          "withdrawals": null,
+          "starttime": "2026-10-07T00:00:00"
+        },
+        {
+          "announcements": 1440,
+          "withdrawals": null,
+          "starttime": "2026-10-07T06:00:00"
+        },
+        {
+          "announcements": 2287,
+          "withdrawals": null,
+          "starttime": "2026-10-07T12:00:00"
+        },
+        {
+          "announcements": 932,
+          "withdrawals": null,
+          "starttime": "2026-10-07T18:00:00"
+        },
+        {
+          "announcements": 723,
+          "withdrawals": null,
+          "starttime": "2026-10-08T00:00:00"
+        },
+        {
+          "announcements": 1294,
+          "withdrawals": null,
+          "starttime": "2026-10-08T06:00:00"
+        },
+        {
+          "announcements": 2474,
+          "withdrawals": null,
+          "starttime": "2026-10-08T12:00:00"
+        },
+        {
+          "announcements": 734,
+          "withdrawals": null,
+          "starttime": "2026-10-08T18:00:00"
+        },
+        {
+          "announcements": 589,
+          "withdrawals": null,
+          "starttime": "2026-10-09T00:00:00"
+        },
+        {
+          "announcements": 613,
+          "withdrawals": null,
+          "starttime": "2026-10-09T06:00:00"
+        },
+        {
+          "announcements": 1861,
+          "withdrawals": null,
+          "starttime": "2026-10-09T12:00:00"
+        },
+        {
+          "announcements": 582,
+          "withdrawals": null,
+          "starttime": "2026-10-09T18:00:00"
+        },
+        {
+          "announcements": 504,
+          "withdrawals": null,
+          "starttime": "2026-10-10T00:00:00"
+        },
+        {
+          "announcements": 571,
+          "withdrawals": null,
+          "starttime": "2026-10-10T06:00:00"
+        },
+        {
+          "announcements": 555,
+          "withdrawals": null,
+          "starttime": "2026-10-10T12:00:00"
+        },
+        {
+          "announcements": 794,
+          "withdrawals": null,
+          "starttime": "2026-10-10T18:00:00"
+        },
+        {
+          "announcements": 499,
+          "withdrawals": null,
+          "starttime": "2026-10-11T00:00:00"
+        },
+        {
+          "announcements": 755,
+          "withdrawals": null,
+          "starttime": "2026-10-11T06:00:00"
+        },
+        {
+          "announcements": 425,
+          "withdrawals": null,
+          "starttime": "2026-10-11T12:00:00"
+        },
+        {
+          "announcements": 528,
+          "withdrawals": null,
+          "starttime": "2026-10-11T18:00:00"
+        },
+        {
+          "announcements": 1007,
+          "withdrawals": null,
+          "starttime": "2026-10-12T00:00:00"
+        },
+        {
+          "announcements": 1307,
+          "withdrawals": null,
+          "starttime": "2026-10-12T06:00:00"
+        },
+        {
+          "announcements": 152,
+          "withdrawals": null,
+          "starttime": "2026-10-12T12:00:00"
+        }
+      ]
+    },
+    "routing_status": {
+      "first_seen": {
+        "prefix": "213.180.192.0/19",
+        "origin": "13238",
+        "time": "2000-08-18T08:00:00"
+      },
+      "last_seen": {
+        "prefix": "77.88.55.0/24",
+        "origin": "13238",
+        "time": "2026-10-12T16:00:00"
+      },
+      "visibility": {
+        "v4": {
+          "ris_peers_seeing": 203,
+          "total_ris_peers": 327
+        },
+        "v6": {
+          "ris_peers_seeing": 185,
+          "total_ris_peers": 316
+        }
+      },
+      "announced_space": {
+        "v4": {
+          "prefixes": 29,
+          "ips": 192768
+        },
+        "v6": {
+          "prefixes": 16,
+          "48s": 524288
+        }
+      },
+      "observed_neighbours": 23,
+      "resource": "13238",
+      "query_time": "2026-10-12T16:00:00"
+    }
+  },
+  "cloudflare_radar_benchmarks": {
+    "description": "Cloudflare Radar AS13238 (Yandex LLC) Automated HTTP Traffic Index (% of pre-strike baseline peak)",
+    "events": [
+      {
+        "timestamp": "2026-10-08T01:00:00Z",
+        "name": "Strike 1: Sasovo DC (Ryazan)",
+        "detail": "Drone strike causes fire & full shutdown of Yandex Sasovo facility (AI supercomputers & server halls)."
+      },
+      {
+        "timestamp": "2026-10-09T02:00:00Z",
+        "name": "Strike 2: Kaluga DC",
+        "detail": "Drone strike disables server modules and power infrastructure at Yandex Kaluga facility."
+      },
+      {
+        "timestamp": "2026-10-11T01:00:00Z",
+        "name": "Strike 3: Vladimir DC (ru-central1-a)",
+        "detail": "Emergency shutdown of Vladimir data center supporting Yandex Cloud ru-central1-a; 80+ services disrupted."
+      },
+      {
+        "timestamp": "2026-10-14T02:30:00Z",
+        "name": "Strike 4: Sberbank Balakovo Mega DC",
+        "detail": "Drone strike hits state-owned Sberbank mega data center under commissioning in Balakovo (Saratov region)."
+      },
+      {
+        "timestamp": "2026-10-18T00:30:00Z",
+        "name": "Strike 5: VKontakte (AS47764) Leningrad DC",
+        "detail": "Massive 1,000+ drone assault hits VK data center in Novosergievka & Vostochnaya substation; VK availability drops to ~56%."
+      }
+    ],
+    "daily_index": [
+      {
+        "date": "2026-10-01",
+        "as13238_bot_traffic_pct": 94.2
+      },
+      {
+        "date": "2026-10-02",
+        "as13238_bot_traffic_pct": 96.8
+      },
+      {
+        "date": "2026-10-03",
+        "as13238_bot_traffic_pct": 91.5
+      },
+      {
+        "date": "2026-10-04",
+        "as13238_bot_traffic_pct": 89.4
+      },
+      {
+        "date": "2026-10-05",
+        "as13238_bot_traffic_pct": 98.1
+      },
+      {
+        "date": "2026-10-06",
+        "as13238_bot_traffic_pct": 100.0
+      },
+      {
+        "date": "2026-10-07",
+        "as13238_bot_traffic_pct": 97.4
+      },
+      {
+        "date": "2026-10-08",
+        "as13238_bot_traffic_pct": 54.0
+      },
+      {
+        "date": "2026-10-09",
+        "as13238_bot_traffic_pct": 21.5
+      },
+      {
+        "date": "2026-10-10",
+        "as13238_bot_traffic_pct": 12.8
+      },
+      {
+        "date": "2026-10-11",
+        "as13238_bot_traffic_pct": 0.4
+      },
+      {
+        "date": "2026-10-12",
+        "as13238_bot_traffic_pct": 3.8
+      },
+      {
+        "date": "2026-10-13",
+        "as13238_bot_traffic_pct": 8.5
+      },
+      {
+        "date": "2026-10-14",
+        "as13238_bot_traffic_pct": 10.2
+      },
+      {
+        "date": "2026-10-15",
+        "as13238_bot_traffic_pct": 12.0
+      },
+      {
+        "date": "2026-10-16",
+        "as13238_bot_traffic_pct": 13.5
+      },
+      {
+        "date": "2026-10-17",
+        "as13238_bot_traffic_pct": 14.1
+      },
+      {
+        "date": "2026-10-18",
+        "as13238_bot_traffic_pct": 11.8
+      }
+    ],
+    "vk_as47764_availability_pct": [
+      {
+        "date": "2026-10-14",
+        "availability_pct": 99.8
+      },
+      {
+        "date": "2026-10-15",
+        "availability_pct": 99.5
+      },
+      {
+        "date": "2026-10-16",
+        "availability_pct": 99.7
+      },
+      {
+        "date": "2026-10-17",
+        "availability_pct": 99.1
+      },
+      {
+        "date": "2026-10-18",
+        "availability_pct": 56.4
+      }
+    ]
+  }
+}
